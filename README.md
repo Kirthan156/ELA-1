@@ -8,7 +8,7 @@ automate inbox routing and prioritization.
 
 ## 🔗 Code
 
-**Google Colab Notebook:** [ADD YOUR COLAB SHARE LINK HERE]
+**Google Colab Notebook:** https://colab.research.google.com/drive/1_n3fzkqVwJbrzatjLJ081C61HnhxVSSg?usp=sharing
 
 > Upload `customer_sentiment_urgency_router.ipynb` to Colab, click **Share → Anyone with the link → Viewer**, and paste that link above before submitting.
 
